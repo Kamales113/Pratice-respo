@@ -1,0 +1,6 @@
+
+*.log
+Temp/
+temp/
+.env
+node_module
